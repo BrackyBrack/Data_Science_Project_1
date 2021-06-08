@@ -5,7 +5,7 @@ The code in this repository was created with the standard Anaconda distribution 
 For this project I wanted to use AirBNB data from 2018 for the city of Seattle to answer some key questions that would need investigating if somebody were to consider investing in a rental property in the city.
 1. What neighbourhood offers the highest returns.
 2. What neighbourhood has the highest demand.
-3. What amenities within a property have the greatest impact on price.
+3. What amenities within a property have the greatest impact on price and demand
 
 With the answers to these 3 questions, investors will hopefully be better informed when looking at potential property purchases.
 
