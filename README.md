@@ -10,7 +10,7 @@ For this project I wanted to use AirBNB data from 2018 for the city of Seattle t
 With the answers to these 3 questions, investors will hopefully be better informed when looking at potential property purchases.
 
 ### Results
-# TO DO - POST LINK TO BLOG WHEN DONE
+The findings are all discussed within the notebook, a full write up of the analysis is available [here](https://david-bracken.medium.com/this-is-what-to-look-for-in-your-seattle-rental-property-5996e19bc43c)
 
 ### File Descriptions
 There is one notebook in this repository, that answers all 3 questions above. 
